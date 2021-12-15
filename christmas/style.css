@@ -1,0 +1,28 @@
+body {
+ background-color: red;
+}
+h1{
+	color: darkred
+	background-image: linear-gradient(darkred,  red);
+}
+ul{
+	padding: 20px;
+	padding-bottom: 10px darkred;
+	padding-top: 10px darkred;
+	border: dotted 10px green;
+	background-color: darkred;
+}
+li{
+	color: lightgreen;
+	font-size: 20px;
+	background-color:darkred;
+}
+img{
+	padding:  20px;
+	padding-bottom: 10px darkred;
+	padding-top: 10px darkred;
+	border:solid 10px green;
+	background-color: darkred;
+	width: 300px;
+	height: 350px;
+}
