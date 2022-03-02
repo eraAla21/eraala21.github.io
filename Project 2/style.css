@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital@1&family=Roboto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Raleway:ital@1&family=Roboto+Serif&display=swap');
+h1{
+   display: flex;
+   justify-content: center;
+font-family: Raleway;
+
+}
+   
+h2{
+	display: flex;
+	justify-content: center;
+	font-family:Dancing Script ;
+    font-size: 15px;
+}
+
+#b{
+ background:radial-gradient(circle, rgba(199,211,219,1) 0%, rgba(16,135,213,1) 17%, rgba(40,125,193,1) 900991%); 
+ border: 5px dotted;
+ font-size: 10px;
+margin-top:  30px;
+padding: 40px;
+
+}
+
+.j{
+	display: flex;
+	justify-content: center;
+     align-items: center;
+	background-color: white;
+	padding: 10px;
+}
+
+
+.c{
+height: 300px;
+ background-color: lightblue;
+ border: 5px dotted;
+margin-top: 30px;
+font-size: 40px;
+display: flex;
+justify-content: space-between;
+align-items: stretch;
+
+
+}
+.w{background-color: white;
+
+
+}
+.e{ 
+	background-color: white;
+
+
+
+}
+
+#d{
+    border: 5px dotted;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.g{
+   height: 150px;
+   width: 120px;
+
+
+}
+
+.z{
+   height: 150px;
+   width: 120px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.a{
+	border: 5px dotted;
+	font-size: 20px;
+
+}
+
+
+
+
+
+
+
