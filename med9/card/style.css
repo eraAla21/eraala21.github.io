@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Open+Sans:ital,wght@0,300;1,300&family=Raleway:ital@1&family=Roboto+Serif&display=swap');
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background-color: cyan;
+	font-family: "Open Sans";
+}
+
+article .image{
+	height: 180px;
+	width: 300px;
+	background-image: url(kelvinbosi.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+}
+
+article .text{
+	height: 250px;
+	width: 300px;
+	background-color: white;
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: stretch;
+	flex-direction: column;
+}
+article .text .header{
+	text-transform: uppercase;
+}
+article .text .footer{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+article .box{
+	position:absolute;
+	left: 0px;
+	top: 186px;
+	background-color:red; 
+	color: white;
+	text-transform: uppercase;
+	padding: 6px;
+
+}
+article{
+	position: relative;
+
+	
+}
+
